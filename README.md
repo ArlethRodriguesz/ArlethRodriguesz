@@ -1,4 +1,4 @@
-# Hola, I'm Arleth 🤙
+# Hey it's Arleth 🤙
 I am passionate about leveraging data and technology to inform business and product strateies to create impact in local communities.
 
 ---
