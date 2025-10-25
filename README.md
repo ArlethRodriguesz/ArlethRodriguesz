@@ -30,8 +30,8 @@ I am partnered with Pike Ride, a local bike-share nonprofit with more than 115 s
 
 ---  
 ## My Joys in Life 🌱
-- Ologies with Alie Ward Podcast
-- Exploring cities biking
+- *Ologies with Alie Ward* Podcast
+- Exploring cities through biking
 - Spanglish conversations
 
 
