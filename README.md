@@ -1,4 +1,4 @@
-# Hey it's Arleth 🤙
+# Hey it's Arleth!
 I am passionate about leveraging data and technology to inform business and product strateies to create impact in local communities.
 
 ---
@@ -8,7 +8,7 @@ I am passionate about leveraging data and technology to inform business and prod
 - Graduated from Amherst College with a B.A. in Mathematics
   
 ---
-## My Current Project 🚵‍♀️
+## My Current Project 
 I am partnered with Pike Ride, a local bike-share nonprofit with more than 115 service locations.
 
 **Goal:** 
@@ -23,7 +23,7 @@ I am partnered with Pike Ride, a local bike-share nonprofit with more than 115 s
 - Refining dataset in preperation for modeling and analysis
 
 ---
-## Technical Skills  💻 
+## Technical Skills 
 - **Languages:** Python (pandas, NumPy, matplotlib, skitlearn) |  Java | R Studio
 - **Machine Learning & Modeling:** Regression Models | Random Forests |  Gradient Boosting (XGBoost) | A/B Testing | Hypothesis Testing
 - **Tools:** Excel | Tableau | Jupyter Notebooks
