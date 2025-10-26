@@ -26,7 +26,7 @@ I am partnered with Pike Ride, a local bike-share nonprofit with more than 115 s
 ## Technical Skills  💻 
 - **Languages:** Python (pandas, NumPy, matplotlib, skitlearn) |  Java | R Studio
 - **Machine Learning & Modeling:** Regression Models | Random Forests |  Gradient Boosting (XGBoost) | A/B Testing | Hypothesis Testing
-- **Tools:** Excel | Tableau | Jupyter Notebooks | Git
+- **Tools:** Excel | Tableau | Jupyter Notebooks
 
 ---  
 ## My Joys in Life 🌱
