@@ -4,7 +4,7 @@ I am passionate about leveraging data and technology to inform business and prod
 ---
 ## What I Do
 - A social impact project manager at a private grantamking foundation supporting communities across Colorado
-- Alongsid my current role, I am building data science and product developtment skills through partnerships with local nonprofits
+- Alongsid my current role, I am building data science and product development skills through partnerships with local nonprofits
 - Graduated from Amherst College with a B.A. in Mathematics
   
 ---
