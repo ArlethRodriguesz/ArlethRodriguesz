@@ -14,13 +14,13 @@ I am partnered with Pike Ride, a local bike-share nonprofit with more than 115 s
 **Goal:** 
 - Analyze PikeRide’s bike-share data to explore revenue trends and bike hub performance, with the long-term goal of creating a predictive model for ride demand and operational planning. This analysis has not been done before by this organization.  
 
-**Accomplishments Thus Far:**  
+**Accomplished:**  
 - Cleaned and aggregated over 200k ride records using Python and pandas  
 - Engineering hub-level features (e.g., proximity to trails, schools, and businesses) to score hub performance  
-- Conducted and presented intial EDA and analysis 
-
-**In Progress** 
-- Refining dataset in preperation for modeling and analysis
+- Conducted and presented intial EDA and analysis
+- Created interactive data vizs
+- Trained a Random Forest Regressor model to identify features influencing bike hub performance
+- Authored and presented a final written report outlining key insights and actionable recommendations
 
 ---
 ## Technical Skills 
