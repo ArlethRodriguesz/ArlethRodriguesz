@@ -9,7 +9,7 @@ I am passionate about leveraging data and tech to create impact in local communi
   
 ---
 ## My Current Project 
-stay tuned! can't say much yet :) 
+stay tuned! 
 
 ---
 ## Technical Skills 
